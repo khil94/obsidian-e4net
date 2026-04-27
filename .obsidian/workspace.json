@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "739a6ea658fb8f83",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9496942783c99be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b661c4817cc583b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹작업/0427 기획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0427 기획"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b26dd6bb018cfad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f254964fa227b6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7694b8516cc97d76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "7de10a1e81c30943",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "84df9a38f68888a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63e06532f25282d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "782eb89d77ebdd62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbf51acf9222f575",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QA/QA 체크리스트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "QA 체크리스트 의 백링크"
+            }
+          },
+          {
+            "id": "bd2c772a9c7e6b51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QA/QA 체크리스트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "QA 체크리스트 의 나가는 링크"
+            }
+          },
+          {
+            "id": "d678c508bddefd62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "2dd93db808c9191a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "62f2432ef6a0ad28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QA/QA 체크리스트.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "QA 체크리스트 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5b661c4817cc583b",
+  "lastOpenFiles": [
+    "templates/작업일지.md",
+    "웹작업/0427 기획.md",
+    "웹작업",
+    "작업일지/2026-04-27 작업일지.md",
+    "QA/UIUX 피드 애니메이션 리스트업.md",
+    "작업일지/2026-04-24 작업일지.md",
+    "작업일지/2026-04-22 작업일지.md",
+    "작업일지/2026-04-23 작업일지.md",
+    "체크리스트.md",
+    "삭제해야 할 것.md",
+    "무제.md",
+    "QA/통계 기능 피드백.md",
+    "QA/수정사항 점검/0424 업데이트 사항 QA.md",
+    "QA/초안들/QA 체크리스트.md",
+    "QA/무제",
+    "QA/초안들/테스트계정.md",
+    "QA/수정사항 점검",
+    "QA/초안들/0420 1114 QA.md",
+    "작업일지/2026-04-21 작업일지.md",
+    "업무현황/1주차(0422).md",
+    "templates/콘텐츠 점검.md",
+    "QA/콘텐츠 점검/2026-04-23 읽기 콘텐츠.md",
+    "templates/코드 F 체크리스트.md",
+    "QA/콘텐츠 점검/읽기.md",
+    "QA/콘텐츠 점검",
+    "QA/초안들",
+    "QA/F/크메르어.md",
+    "QA/F/베트남어.md",
+    "QA/F/중국어.md",
+    "QA/F/한국어.md",
+    "QA/F/러시아어.md",
+    "QA/F",
+    "업무현황",
+    "templates",
+    "작업일지",
+    "무제.base"
+  ]
+}
